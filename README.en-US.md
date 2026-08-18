@@ -70,24 +70,24 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 23:05（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-18 23:49（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 66757 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4512 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
-| 3 | [modlens](https://github.com/liustack/modlens) | 3059 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2140 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
-| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1947 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 66762 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4527 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
+| 3 | [modlens](https://github.com/liustack/modlens) | 3067 | The first vision plugin for DeepSeek Harness, and the v… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2151 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open si… |
+| 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 1952 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1359 | Local-first AI token usage & cost tracker for 31 coding… |
 | 7 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 978 | :zap:The ultimate image uploading engine. Both CLI & AP… |
-| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 735 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
-| 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 692 | [dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
+| 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 740 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
+| 9 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 694 | [dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
 | 10 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 620 | Open-source CMA-compatible agent runtime for any model,… |
-| 11 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 542 | AgentTeams plugin for DeepSeek Harness |
+| 11 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 544 | AgentTeams plugin for DeepSeek Harness |
 | 12 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 497 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 13 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 394 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
-| 14 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | 371 | Codex-style @file mentions for DeepSeek Harness: search… |
+| 14 | [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) | 372 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 15 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 334 | Open-source alternative to Claude Cowork — a local-firs… |
 | 16 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 295 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 17 | [Bigfish](https://github.com/turtle2209/Bigfish) | 267 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带… |
