@@ -70,11 +70,11 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-22 06:56（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-22 07:25（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67117 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67118 | Compress tool outputs, logs, files, and RAG chunks befo… |
 | 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5420 | Plugin and skin collection for DeepSeek Harness (DSH) W… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3496 | The first vision plugin for DeepSeek Harness, and the v… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2574 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
@@ -88,7 +88,7 @@ flowchart TB
 | 12 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 615 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 528 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 14 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 449 | Codex-style @file mentions for DeepSeek Harness: search… |
-| 15 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 373 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
+| 15 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 374 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 16 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 342 | Open-source alternative to Claude Cowork — a local-firs… |
 | 17 | [Bigfish](https://github.com/turtle2209/Bigfish) | 291 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带… |
 | 18 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 286 | GenUI for DeepSeek Harness: interactive UI components r… |
