@@ -8,7 +8,7 @@
 - [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) — DSH Web 鲸鱼娘皮肤系列（深海女仆工坊） ⭐1560
 - [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) — QQ2006 复古皮肤 ⭐20
 - [dsh-miku-skin](https://github.com/stushansusu/dsh-miku-skin) — 初音未来主题（蓝紫渐变/毛玻璃/亮暗双主题） ⭐2 · `dsh plugin add @deepseek-ai/dsh-client-ui-skin-miku`
-- [dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) — 模仿 Excel 的皮肤 ⭐13
+- [dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) — 模仿 Excel 的皮肤 ⭐14
 - [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun) — 同花顺行情终端风格皮肤 + 代码量 K 线面板 ⭐3
 - [dsh-plugin-colorscheme](https://github.com/Civitasv/dsh-plugin-colorscheme) — 配色方案插件 ⭐2
 - [dsh-custom-css](https://github.com/AnacondaKC/dsh-custom-css) — 自定义 CSS ⭐3 · `dsh plugin add dsh-custom-css`
@@ -39,10 +39,10 @@
 - [dsh-local-filetree](https://github.com/Mongfayi/dsh-local-filetree) — 右侧详情列显示当前会话工作区文件树（懒加载、只读） ⭐1 · `dsh plugin add dsh-local-filetree`
 - [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) — 把滚出屏幕的折叠标签（Think/工具卡）钉在视口顶部 ⭐3 · `dsh plugin add dsh-sticky-disclosure`
 - [dsh-token-usage](https://github.com/hashdiana/dsh-token-usage) — 更美观的 Token 用量条：上下文占用/输入输出/缓存分解/首字延迟 ⭐3 · `dsh plugin add dsh-token-usage`
-- [TokenLedger](https://github.com/zh667/TokenLedger) — 按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期 · `dsh plugin --profile web add github:zh667/TokenLedger` ⭐127
+- [TokenLedger](https://github.com/zh667/TokenLedger) — 按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期 · `dsh plugin --profile web add github:zh667/TokenLedger` ⭐130
 - [dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) — RMB/USD token 计费：官方峰谷价自动计价、按 provider/来源分组统计、预算与余额可视、CSV/JSON 导出 · `dsh plugin --profile web add github:bpc-oss/dsh-web-billing` ⭐10
-- [dsh-model-config-sync](https://github.com/LiangYin233/dsh-provider-model-configurator) — 高级模型配置器：把 pi-ai 预设一键应用到自定义提供商 ⭐11 · `dsh plugin add dsh-model-config-sync`
-- [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) — DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心 ⭐5412 · `dsh plugin add dsh-web-ui`
+- [dsh-model-config-sync](https://github.com/LiangYin233/dsh-provider-model-configurator) — 高级模型配置器：把 pi-ai 预设一键应用到自定义提供商 ⭐12 · `dsh plugin add dsh-model-config-sync`
+- [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) — DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心 ⭐5417 · `dsh plugin add dsh-web-ui`
 - [dsh-plugin-open-app](https://github.com/2nd1st/dsh-plugin-open-app) — 把 open-mcp-apps 带进 DSH：每个 MCP app 一个侧边栏容器（独立 workspace + 会话 + App mode），带 agent 状态条、聊天内行内渲染与 App Store · `dsh plugin --profile web add @2nd1st/dsh-plugin-open-app` ⭐4
 - [dsh-ui-hub](https://github.com/Han-1413141/dsh-ui-hub) — UI 管家：官方/插件 UI 分区折叠、逐条开关，拖拽移动/改大小，碰撞避让与一键自动排布 · `dsh plugin --profile web add github:Han-1413141/dsh-ui-hub` ⭐3
 - [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) — 会话顶栏一屏看完整会话改动，列出 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动 · `dsh plugin --profile web add dsh-what-changed` ⭐2
@@ -52,7 +52,7 @@
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) — 对话内生成式 UI：模型把交互式 HTML 卡片直接画进会话流，带流式预览 ⭐198 · `dsh plugin add @dsh-external/dsh-visualize`
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) — 助手回复内渲染交互式 UI 组件：布局、图表、表单、测验、mermaid、3D 场景 ⭐286 · `dsh plugin add @omdsh-dev/dsh-genui`
 - [web-components](https://github.com/omdsh-dev/web-components) — Web Components 支持 ⭐2 · `dsh plugin add @deepseek-ai/dsh-client-web-component`
-- [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑（Agent 操作真实设计画布） ⭐137 · `dsh plugin add @zseven-w/dsh-openpencil`
+- [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) — OpenPencil 设计预览与编辑（Agent 操作真实设计画布） ⭐138 · `dsh plugin add @zseven-w/dsh-openpencil`
 
 <!-- nav:start -->
 ---
