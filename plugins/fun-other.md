@@ -12,7 +12,7 @@
 ## 桌宠 / 表情 / 贴纸
 
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — 全手绘像素鲸鱼伙伴（眨眼/摆尾/喷水/爱心） ⭐29
-- [whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物鲸鱼娘（QQ 宠物形态，可拖拽/投喂/玩耍） ⭐253 · `dsh plugin add whale-girl`
+- [whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物鲸鱼娘（QQ 宠物形态，可拖拽/投喂/玩耍） ⭐254 · `dsh plugin add whale-girl`
 - [dsh-pixel-whale](https://github.com/yoke233/dsh-pixel-whale) — 活泼像素鲸鱼运行状态伴侣 ⭐1 · `dsh plugin add dsh-pixel-whale`
 - [dsh-blue-whale-maid](https://github.com/yuxino/dsh-blue-whale-maid) — 蓝鲸女仆桌面像素宠物 ⭐5 · `dsh plugin add dsh-blue-whale-maid`
 - [deepseek-pet](https://github.com/keleus/deepseek-pet) — 在 DSH 上养一只大蓝鲸 ⭐34 · `dsh plugin add deepseek-pet`
