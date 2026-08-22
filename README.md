@@ -1,8 +1,20 @@
-# Awesome DSH Plugins
-> **Fork notice:** this repository is a GitHub fork of [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins). All content belongs to its original authors and is republished under the original license; see the commit history for attribution.
-> **转载声明：** 本仓库是上游 [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) 的 GitHub fork（转载），内容版权归原作者所有，按原许可证发布，署名见提交历史。
+> ⚠️ **转载声明（Fork Notice）**
+>
+> 本仓库是 GitHub 项目 **[`
+AdamPlatin123/awesome-dsh-plugins
+`](https://github.com/
+AdamPlatin123/awesome-dsh-plugins
+)** 的 Gitee 转载镜像，**并非原始项目**；所有代码与内容的著作权归原作者及贡献者所有，按原许可证发布。
+>
+> This repository is a Gitee repost (mirror) of the GitHub project [`
+AdamPlatin123/awesome-dsh-plugins
+`](https://github.com/
+AdamPlatin123/awesome-dsh-plugins
+) — **not the original project**. All code and content remain the property of their original authors and contributors, published under the original license.
 
-[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/adamplatin123-awesome-dsh-plugins)
+# Awesome DSH Plugins
+
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/adamplatin123.awesome-dsh-plugins)
 
 <p align="center">
   <img src="assets/banner-entertainment.jpg" width="440" alt="Awesome DSH Plugins banner"><br>
@@ -305,3 +317,14 @@ DSH 插件社区讨论群（微信群）：插件作者、维护者与使用者�
 ![DSH 内测群合照](assets/dsh-miji-heying.png)
 
 Let's keep deep diving！
+---
+
+> **免责声明 / Disclaimer**
+>
+> 本仓库由 PerryLink 仅作**转载镜像**维护，不拥有、不修改本项目内容，亦不提供任何支持。任何问题、缺陷、建议或 Pull Request，请前往上游 GitHub 仓库提交：<https://github.com/
+AdamPlatin123/awesome-dsh-plugins
+>。本镜像不处理任何 issue / PR / 回复。若项目内容存在任何风险或权利争议，请直接联系上游原作者。
+>
+> This repository is maintained by PerryLink as a mirror/转载 only. PerryLink owns no content here and provides no support. For issues, questions or pull requests, please go to the original repository on GitHub: <https://github.com/
+AdamPlatin123/awesome-dsh-plugins
+>. All risks or rights disputes about the content should be directed to the original authors.
