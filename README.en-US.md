@@ -70,7 +70,7 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-23 07:39（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-23 07:57（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
@@ -82,7 +82,7 @@ flowchart TB
 | 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1402 | Local-first AI token usage & cost tracker for 31 coding… |
 | 7 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 980 | :zap:The ultimate image uploading engine. Both CLI & AP… |
 | 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 937 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
-| 9 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 831 | AgentTeams plugin for DeepSeek Harness |
+| 9 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 832 | AgentTeams plugin for DeepSeek Harness |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 809 | [dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
 | 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 629 | Local-first AI agent runtime with sandboxed sessions, M… |
 | 12 | [deepseek-harness-desktop-app](https://github.com/vibeinging/deepseek-harness-desktop-app) | 616 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
