@@ -1,4 +1,5 @@
 # Awesome DSH Plugins
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/awesome-dsh-plugins)
 
 <p align="center">
   <img src="assets/banner-entertainment.jpg" width="440" alt="Awesome DSH Plugins banner"><br>
