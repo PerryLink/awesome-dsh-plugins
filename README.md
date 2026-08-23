@@ -89,11 +89,11 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-24 04:19（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-24 04:43（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67278 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67279 | Compress tool outputs, logs, files, and RAG chunks befo… |
 | 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5737 | DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 … |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3555 | The first vision plugin for DeepSeek Harness, and the v… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2718 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
@@ -109,7 +109,7 @@ flowchart TB
 | 14 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 461 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 15 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 405 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
 | 16 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 343 | Open-source alternative to Claude Cowork — a local-firs… |
-| 17 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 305 | GenUI for DeepSeek Harness: interactive UI components r… |
+| 17 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 307 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 18 | [Bigfish](https://github.com/turtle2209/Bigfish) | 290 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带… |
 | 19 | [whale-girl](https://github.com/vlln/whale-girl) | 273 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 | 20 | [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) | 258 | 一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。 |
