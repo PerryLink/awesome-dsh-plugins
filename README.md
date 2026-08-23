@@ -89,13 +89,13 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-24 06:18（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-08-24 06:42（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67279 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 67281 | Compress tool outputs, logs, files, and RAG chunks befo… |
 | 2 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5741 | DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 … |
-| 3 | [modlens](https://github.com/liustack/modlens) | 3555 | The first vision plugin for DeepSeek Harness, and the v… |
+| 3 | [modlens](https://github.com/liustack/modlens) | 3556 | The first vision plugin for DeepSeek Harness, and the v… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 2719 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2372 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
 | 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1403 | Local-first AI token usage & cost tracker for 31 coding… |
@@ -104,7 +104,7 @@ flowchart TB
 | 9 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 898 | AgentTeams plugin for DeepSeek Harness |
 | 10 | [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 817 | [dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还… |
 | 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 629 | Local-first AI agent runtime with sandboxed sessions, M… |
-| 12 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 621 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
+| 12 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 622 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 552 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
 | 14 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 461 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 15 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 405 | dsh plugin: Chrome sidebar extension that lets DeepSeek… |
