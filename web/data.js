@@ -1,12 +1,12 @@
 // 由 scripts/gen-web-data.mjs 自动生成，请勿手改。
 window.__DSH_DATA__ = {
-  "generatedAt": "2026-08-24T18:21:42.213Z",
+  "generatedAt": "2026-08-24T21:17:18.781Z",
   "source": "scripts/gen-web-data.mjs",
   "stats": {
     "plugins": 306,
     "categories": 14,
     "withInstall": 234,
-    "withStars": 301
+    "withStars": 299
   },
   "categories": [
     {
@@ -489,7 +489,7 @@ window.__DSH_DATA__ = {
       "owner": "codeAnqiang-ma",
       "repo": "dsh-superpowers",
       "description": "Superpowers（obra/superpowers）作为 DSH 插件：方法论技能 + 会话引导",
-      "stars": 5,
+      "stars": 4,
       "install": "dsh plugin add dsh-superpowers",
       "category": "skills"
     },
@@ -689,7 +689,7 @@ window.__DSH_DATA__ = {
       "owner": "Small-tailqwq",
       "repo": "dsh-deep-whale",
       "description": "DSH Web 鲸鱼娘皮肤系列（深海女仆工坊）",
-      "stars": 1672,
+      "stars": 1674,
       "install": null,
       "category": "ui-themes"
     },
@@ -799,7 +799,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "DSH-better-sidebar",
       "description": "侧边栏完整工作台：文件渲染编辑/终端/Git/子代理，支持三方注册 Tab",
-      "stars": 2808,
+      "stars": 2812,
       "install": "dsh plugin add dsh-better-sidebar",
       "category": "ui-themes"
     },
@@ -999,7 +999,7 @@ window.__DSH_DATA__ = {
       "owner": "bpc-oss",
       "repo": "dsh-web-billing",
       "description": "RMB/USD token 计费：官方峰谷价自动计价、按 provider/来源分组统计、预算与余额可视、CSV/JSON 导出 · `dsh plugin --profile web add github:bpc-oss/dsh-web-billing`",
-      "stars": 12,
+      "stars": 11,
       "install": null,
       "category": "ui-themes"
     },
@@ -1029,7 +1029,7 @@ window.__DSH_DATA__ = {
       "owner": "zhu1090093659",
       "repo": "dsh-web-ui",
       "description": "DSH Web UI 插件与皮肤集合：任务看板、Git 图谱、右侧面板、移动端远程、皮肤中心",
-      "stars": 5905,
+      "stars": 5909,
       "install": "dsh plugin add dsh-web-ui",
       "category": "ui-themes"
     },
@@ -1069,7 +1069,7 @@ window.__DSH_DATA__ = {
       "owner": "Renzic-Stone",
       "repo": "DSH-EasyRewrite",
       "description": "DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n",
-      "stars": 60,
+      "stars": 63,
       "install": "dsh plugin add dsh-easyrewrite",
       "category": "ui-themes"
     },
@@ -1079,7 +1079,7 @@ window.__DSH_DATA__ = {
       "owner": "Phant0Meow",
       "repo": "dsh-meow-smooth",
       "description": "手机优先的 DSH 前端体验优化：输入框失焦自动折叠、手机回车换行、侧边栏/顶部栏压缩、设置页适配、禁缩放回弹，外加长任务完成/权限申请/提问通知（Web Push/Bark webhook）",
-      "stars": 13,
+      "stars": 14,
       "install": "dsh plugin add meow-smooth",
       "category": "ui-themes"
     },
@@ -1129,7 +1129,7 @@ window.__DSH_DATA__ = {
       "owner": "ccch1mneyyy",
       "repo": "dsh-TUI",
       "description": "Claude Code 风格全屏交互终端：像素鲸鱼顶栏、流式思考展开、双击 Esc 回滚、上下文/TPS 仪表",
-      "stars": 2468,
+      "stars": 2472,
       "install": "dsh plugin add dsh-cc-tui",
       "category": "desktop-tui-mobile"
     },
@@ -1239,7 +1239,7 @@ window.__DSH_DATA__ = {
       "owner": "mrbbbaixue",
       "repo": "dsh-desktop",
       "description": ".NET 10 WPF + WebView2 桌面启动器",
-      "stars": 2,
+      "stars": 1,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1249,7 +1249,7 @@ window.__DSH_DATA__ = {
       "owner": "dataelement",
       "repo": "dsh-desktop",
       "description": "跨平台桌面应用",
-      "stars": 2196,
+      "stars": 2202,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1259,7 +1259,7 @@ window.__DSH_DATA__ = {
       "owner": "Void0312Aurora",
       "repo": "dsh-desktop-electron",
       "description": "跨平台 Electron 桌面壳（托盘驻留、无内置 Node）",
-      "stars": 5,
+      "stars": 4,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1269,7 +1269,7 @@ window.__DSH_DATA__ = {
       "owner": "fengzhiyushui",
       "repo": "dsh-desktop-window",
       "description": "以独立应用窗口打开 Web UI（自动开窗 + 设置开关）",
-      "stars": 1,
+      "stars": null,
       "install": "dsh plugin add dsh-desktop-window",
       "category": "desktop-tui-mobile"
     },
@@ -1279,7 +1279,7 @@ window.__DSH_DATA__ = {
       "owner": "anywhere-labs",
       "repo": "deepseek-harness-desktop",
       "description": "现代化 DeepSeek Harness 桌面端体验",
-      "stars": 19640,
+      "stars": 19649,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1299,7 +1299,7 @@ window.__DSH_DATA__ = {
       "owner": "Ruler4396",
       "repo": "dsh-launcher",
       "description": "Windows 轻量启动器：开机自启 + 独立小窗口",
-      "stars": 178,
+      "stars": 177,
       "install": null,
       "category": "desktop-tui-mobile"
     },
@@ -1499,7 +1499,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-mnemon",
       "description": "Mnemon 本地三层记忆（Runtime Memory/可检索文档/受监督 Memory Spaces）",
-      "stars": 199,
+      "stars": 202,
       "install": "dsh plugin add dsh-mnemon",
       "category": "context-memory"
     },
@@ -1589,7 +1589,7 @@ window.__DSH_DATA__ = {
       "owner": "LoserFox",
       "repo": "distill",
       "description": "自动对话蒸馏：后台 subagent 反省 + 技能 create/update",
-      "stars": 21,
+      "stars": 22,
       "install": "dsh plugin add @loserfox/distill",
       "category": "context-memory"
     },
@@ -1649,7 +1649,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-sidechain",
       "description": "`/side` 持续性侧会话与 `/btw` 一次性侧问，在临时 fork 中运行",
-      "stars": 9,
+      "stars": 8,
       "install": "dsh plugin add @dsh-external/dsh-sidechain",
       "category": "context-memory"
     },
@@ -1699,7 +1699,7 @@ window.__DSH_DATA__ = {
       "owner": "liustack",
       "repo": "modlens",
       "description": "DSH 首个视觉插件：粘贴图片返回结构化 JSON 证据（OCR/布局/语义）",
-      "stars": 3599,
+      "stars": 3602,
       "install": "dsh plugin add @liustack/modlens",
       "category": "multimodal"
     },
@@ -1959,7 +1959,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-advisor",
       "description": "副模型每轮被动审查并注入见解",
-      "stars": 14,
+      "stars": 13,
       "install": "dsh plugin add dsh-advisor",
       "category": "workflow-automation"
     },
@@ -1979,7 +1979,7 @@ window.__DSH_DATA__ = {
       "owner": "omdsh-dev",
       "repo": "dsh-llm-fallbacks",
       "description": "基于角色的模型重试/备用策略",
-      "stars": 17,
+      "stars": 16,
       "install": "dsh plugin add dsh-llm-fallbacks",
       "category": "workflow-automation"
     },
@@ -2049,7 +2049,7 @@ window.__DSH_DATA__ = {
       "owner": "ilharp",
       "repo": "dsh-tool-approval",
       "description": "手动审批模式（Manual/Ask Mode）",
-      "stars": 1,
+      "stars": null,
       "install": "dsh plugin add dsh-tool-approval",
       "category": "workflow-automation"
     },
@@ -2129,7 +2129,7 @@ window.__DSH_DATA__ = {
       "owner": "imetn",
       "repo": "dsh-lark-bridge",
       "description": "双向飞书控制器",
-      "stars": 7,
+      "stars": 6,
       "install": "dsh plugin add dsh-lark-bridge",
       "category": "notifications-channels"
     },
@@ -2149,7 +2149,7 @@ window.__DSH_DATA__ = {
       "owner": "xmanrui",
       "repo": "dsh-im",
       "description": "一个设置入口统一接入飞书/微信/钉钉/企业微信/QQ/Slack/Telegram/Discord/WhatsApp 机器人，支持扫码、Manifest 或凭据绑定 · `npx -y github:xmanrui/dsh-im install`",
-      "stars": 772,
+      "stars": 774,
       "install": null,
       "category": "notifications-channels"
     },
@@ -2169,7 +2169,7 @@ window.__DSH_DATA__ = {
       "owner": "SeverusZh",
       "repo": "dsh-notify-windows",
       "description": "Windows 通知（零依赖）",
-      "stars": 6,
+      "stars": 5,
       "install": null,
       "category": "notifications-channels"
     },
@@ -2419,7 +2419,7 @@ window.__DSH_DATA__ = {
       "owner": "liustack",
       "repo": "modsearch",
       "description": "CLI 搜索工具：把搜索查询转结构化 web 证据 JSON",
-      "stars": 249,
+      "stars": 251,
       "install": "dsh plugin add @liustack/modsearch",
       "category": "browser-search"
     },
@@ -2719,7 +2719,7 @@ window.__DSH_DATA__ = {
       "owner": "multica-ai",
       "repo": "dsh-multica-runtime",
       "description": "Multica 的 DSH runtime 桥接（stdio JSONL 协议）",
-      "stars": 56,
+      "stars": 55,
       "install": "dsh plugin add @multica-ai/dsh-runtime",
       "category": "infrastructure-dev"
     },
@@ -2749,7 +2749,7 @@ window.__DSH_DATA__ = {
       "owner": "dsh-market",
       "repo": "dsh-market",
       "description": "DSH 可视化插件市场：浏览/搜索/一键安装",
-      "stars": 2190,
+      "stars": 2191,
       "install": "dsh plugin add github:dsh-market/dsh-market",
       "category": "infrastructure-dev"
     },
@@ -2819,7 +2819,7 @@ window.__DSH_DATA__ = {
       "owner": "vlln",
       "repo": "whale-girl",
       "description": "桌面宠物鲸鱼娘（QQ 宠物形态，可拖拽/投喂/玩耍）",
-      "stars": 281,
+      "stars": 280,
       "install": "dsh plugin add whale-girl",
       "category": "fun-other"
     },
@@ -3039,7 +3039,7 @@ window.__DSH_DATA__ = {
       "owner": "zhaoolee",
       "repo": "notes",
       "description": "开源版锤子便签：导出 DSH 会话为便签图片，支持 skill 调用 ⚠️ 无 license 文件",
-      "stars": 152,
+      "stars": 153,
       "install": null,
       "category": "fun-other"
     },
@@ -3049,7 +3049,7 @@ window.__DSH_DATA__ = {
       "owner": "Han-1413141",
       "repo": "dsh-cost-meter",
       "description": "DSH 会话费用统计（本会话/当日/历史 + 官方价格同步）",
-      "stars": 181,
+      "stars": 183,
       "install": "dsh plugin add github:Han-1413141/dsh-cost-meter",
       "category": "fun-other"
     },
@@ -3089,7 +3089,7 @@ window.__DSH_DATA__ = {
       "owner": "deepseek-ai",
       "repo": "deepseek-harness",
       "description": "官方核心仓库：「一切皆插件」，Cordis 驱动",
-      "stars": 191565,
+      "stars": 191762,
       "install": null,
       "category": "official-meta"
     },
@@ -3109,7 +3109,7 @@ window.__DSH_DATA__ = {
       "owner": "awesome-dsh-plugin",
       "repo": "awesome-dsh-plugin",
       "description": "社区精选列表（105 插件 + 站点 + 徽章）",
-      "stars": 12231,
+      "stars": 12249,
       "install": null,
       "category": "official-meta"
     },
@@ -3129,7 +3129,7 @@ window.__DSH_DATA__ = {
       "owner": "0xsline",
       "repo": "awesome-deepseek-harness",
       "description": "DSH 生态精选：插件/工具/基础设施",
-      "stars": 881,
+      "stars": 882,
       "install": null,
       "category": "official-meta"
     },
