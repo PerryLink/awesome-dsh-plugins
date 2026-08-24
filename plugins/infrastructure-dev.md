@@ -9,7 +9,7 @@
 - [dsh-hub](https://github.com/omdsh-dev/dsh-hub) — OMDSH 社区扩展 hub（基于官方 contracts） ⭐4 · `dsh plugin add @omdsh/dsh-hub`
 - [DSH-plugin-switch](https://github.com/Nexus-Aethra/DSH-plugin-switch) — 插件市场：浏览/搜索/安装 GitHub 项目，自动识别 plugin/skill ⭐2 · `dsh plugin add dsh-plugin-switch`
 - [dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) — 把 DSH 快速接入 GitHub 插件生态的市场插件 ⭐6 · `dsh plugin add dsh-plugin-installer`
-- [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) — 超级模组注入器：运行时注入本地插件包（junction + loader.create，热重载） ⭐143 · `dsh plugin add @dsh-external/dsh-super-injector`
+- [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) — 超级模组注入器：运行时注入本地插件包（junction + loader.create，热重载） ⭐144 · `dsh plugin add @dsh-external/dsh-super-injector`
 - [oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) — 面向 DSH 的插件生态：700+ 插件，扩展接缝注册不改 agent-loop ⭐52
 
 ## 健康检查 / 诊断 / 审计
@@ -26,7 +26,7 @@
 
 - [dsh-evolve](https://github.com/william-jin-cmu/dsh-evolve) — 自进化：agent 会话内给自己热挂载/卸载持久化插件 ⭐10 · `dsh plugin add @dsh-external/dsh-evolve`
 - [dsh-trace](https://github.com/vibeinging/dsh-trace) — 遥测后端：导出 turns/model steps/tool calls 到 yiTrace ⭐2 · `dsh plugin add @deepseek-ai/dsh-trace`
-- [fabric](https://github.com/omdsh-dev/fabric) — 类似 MC Fabric 的 hook 处理器 ⭐15 · `dsh plugin add cordis-fabric-bundle`
+- [fabric](https://github.com/omdsh-dev/fabric) — 类似 MC Fabric 的 hook 处理器 ⭐18 · `dsh plugin add cordis-fabric-bundle`
 - [sandbox-micro](https://github.com/omdsh-dev/sandbox-micro) — microsandbox 沙箱支持 ⭐3 · `dsh plugin add @deepseek-ai/dsh-sandbox-microsandbox`
 - [sandbox-mxc](https://github.com/omdsh-dev/sandbox-mxc) — 微软跨平台沙盒支持 ⭐2 · `dsh plugin add @deepseek-ai/dsh-sandbox-mxc`
 - [sandbox-nono](https://github.com/omdsh-dev/sandbox-nono) — nono 沙盒支持 ⭐3 · `dsh plugin add @deepseek-ai/dsh-sandbox-nono`
@@ -44,7 +44,7 @@
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — Multica 的 DSH runtime 桥接（stdio JSONL 协议） ⭐55 · `dsh plugin add @multica-ai/dsh-runtime`
 - [session-teleport](https://github.com/omdsh-dev/session-teleport) — PostgreSQL 单写者会话交接服务 ⭐2 · `dsh plugin add @mattheliu/session-teleport`
 - [session-persistence-rdb](https://github.com/morlay/session-persistence-rdb) — session 关系型数据库持久化 ⭐4 · `dsh plugin add @morlay/session-persistence-rdb`
-- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2019 · `dsh plugin add github:dsh-market/dsh-market`
+- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2049 · `dsh plugin add github:dsh-market/dsh-market`
 - [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐100 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
 
 <!-- nav:start -->
