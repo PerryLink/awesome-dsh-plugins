@@ -7,10 +7,10 @@
 - [plugin-registry](https://github.com/vlln/plugin-registry) — 插件管理控制台：浏览器面板管理官方 repository 插件 + 开发引导 ⭐57
 - [dsh-plugin-manager-registry](https://github.com/Jesse-njx/dsh-plugin-manager-registry) — 离线容忍的注册表：从 awesome 列表/GitHub topics/npm 发现并去重 DSH 插件 ⭐1
 - [dsh-hub](https://github.com/omdsh-dev/dsh-hub) — OMDSH 社区扩展 hub（基于官方 contracts） ⭐4 · `dsh plugin add @omdsh/dsh-hub`
-- [DSH-plugin-switch](https://github.com/Nexus-Aethra/DSH-plugin-switch) — 插件市场：浏览/搜索/安装 GitHub 项目，自动识别 plugin/skill ⭐2 · `dsh plugin add dsh-plugin-switch`
 - [dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) — 把 DSH 快速接入 GitHub 插件生态的市场插件 ⭐6 · `dsh plugin add dsh-plugin-installer`
 - [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) — 超级模组注入器：运行时注入本地插件包（junction + loader.create，热重载） ⭐147 · `dsh plugin add @dsh-external/dsh-super-injector`
 - [oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) — 面向 DSH 的插件生态：700+ 插件，扩展接缝注册不改 agent-loop ⭐53
+- [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) — 插件管理面板 + 多源市场：一键启停（HMR 生效）、GitHub/Gitee/自定义源并行搜索、静态索引市场（500+ 插件 / 300 技能）、技能安装/停用/删除、套装一键装配、框架一键升级 ⭐69 · `dsh plugin add dsh-plugin-hub`
 
 ## 健康检查 / 诊断 / 审计
 

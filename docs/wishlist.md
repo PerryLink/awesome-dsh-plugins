@@ -16,7 +16,7 @@
 ## 🟡 待强化（有雏形，但不成气候）
 
 ### 插件市场 / 安装器
-- **现状**：仅 [DSH-plugin-switch](https://github.com/Nexus-Aethra/DSH-plugin-switch)、[dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) 等雏形。
+- **现状**：仅有 [dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer)、[dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) 等雏形。
 - **需求**：图形化浏览 / 安装 / 评分 / 更新 / 一键卸载。
 
 ### 测试与质量
@@ -32,6 +32,6 @@
 
 ## 如何认领
 
-1. 从上面或 [reconcile.md](reconcile.md) 选一个方向；
+1. 从上面任选一个方向；
 2. 开 Issue 声明认领（避免重复造轮子）；
 3. 做出插件后，按 [CONTRIBUTING.md](../CONTRIBUTING.md) 提交收录。

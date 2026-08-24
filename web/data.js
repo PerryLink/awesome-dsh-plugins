@@ -1,12 +1,12 @@
 // 由 scripts/gen-web-data.mjs 自动生成，请勿手改。
 window.__DSH_DATA__ = {
-  "generatedAt": "2026-08-24T15:27:50.546Z",
+  "generatedAt": "2026-08-24T16:30:06.497Z",
   "source": "scripts/gen-web-data.mjs",
   "stats": {
-    "plugins": 299,
+    "plugins": 306,
     "categories": 14,
-    "withInstall": 228,
-    "withStars": 297
+    "withInstall": 239,
+    "withStars": 301
   },
   "categories": [
     {
@@ -424,6 +424,16 @@ window.__DSH_DATA__ = {
       "category": "tools"
     },
     {
+      "name": "dsh-nuke-plugin",
+      "url": "https://github.com/beijingwahw/dsh-nuke-plugin",
+      "owner": "beijingwahw",
+      "repo": "dsh-nuke-plugin",
+      "description": "事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式 + Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重、贝叶斯先知推演成功率；回收区代替物理删除（可恢复）",
+      "stars": null,
+      "install": "dsh plugin add github:beijingwahw/dsh-nuke-plugin",
+      "category": "tools"
+    },
+    {
       "name": "dsh-review-skills",
       "url": "https://github.com/ben7am1n/dsh-review-skills",
       "owner": "ben7am1n",
@@ -691,16 +701,6 @@ window.__DSH_DATA__ = {
       "description": "QQ2006 复古皮肤",
       "stars": 23,
       "install": null,
-      "category": "ui-themes"
-    },
-    {
-      "name": "dsh-miku-skin",
-      "url": "https://github.com/stushansusu/dsh-miku-skin",
-      "owner": "stushansusu",
-      "repo": "dsh-miku-skin",
-      "description": "初音未来主题（蓝紫渐变/毛玻璃/亮暗双主题）",
-      "stars": 2,
-      "install": "dsh plugin add @deepseek-ai/dsh-client-ui-skin-miku",
       "category": "ui-themes"
     },
     {
@@ -988,9 +988,9 @@ window.__DSH_DATA__ = {
       "url": "https://github.com/zh667/TokenLedger",
       "owner": "zh667",
       "repo": "TokenLedger",
-      "description": "按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期 · `dsh plugin --profile web add github:zh667/TokenLedger`",
+      "description": "按中转站点、项目和模型统计本地 DSH Token 用量，并显示账户余额与订阅额度周期",
       "stars": 142,
-      "install": null,
+      "install": "dsh plugin --profile web add github:zh667/TokenLedger",
       "category": "ui-themes"
     },
     {
@@ -998,9 +998,19 @@ window.__DSH_DATA__ = {
       "url": "https://github.com/bpc-oss/dsh-web-billing",
       "owner": "bpc-oss",
       "repo": "dsh-web-billing",
-      "description": "RMB/USD token 计费：官方峰谷价自动计价、按 provider/来源分组统计、预算与余额可视、CSV/JSON 导出 · `dsh plugin --profile web add github:bpc-oss/dsh-web-billing`",
+      "description": "RMB/USD token 计费：官方峰谷价自动计价、按 provider/来源分组统计、预算与余额可视、CSV/JSON 导出",
       "stars": 12,
-      "install": null,
+      "install": "dsh plugin --profile web add github:bpc-oss/dsh-web-billing",
+      "category": "ui-themes"
+    },
+    {
+      "name": "dsh-plugin-usage-meter",
+      "url": "https://github.com/fancr-code/dsh-plugin-usage-meter",
+      "owner": "fancr-code",
+      "repo": "dsh-plugin-usage-meter",
+      "description": "API 用量/费用/余额仪表：按钮式用量条（峰/谷时段标签）、当日/近 7 天按模型堆叠柱状图、模型分布、预算提醒与跨会话账本",
+      "stars": 3,
+      "install": "dsh plugin add dsh-plugin-usage-meter",
       "category": "ui-themes"
     },
     {
@@ -1028,9 +1038,9 @@ window.__DSH_DATA__ = {
       "url": "https://github.com/2nd1st/dsh-plugin-open-app",
       "owner": "2nd1st",
       "repo": "dsh-plugin-open-app",
-      "description": "把 open-mcp-apps 带进 DSH：每个 MCP app 一个侧边栏容器（独立 workspace + 会话 + App mode），带 agent 状态条、聊天内行内渲染与 App Store · `dsh plugin --profile web add @2nd1st/dsh-plugin-open-app`",
+      "description": "把 open-mcp-apps 带进 DSH：每个 MCP app 一个侧边栏容器（独立 workspace + 会话 + App mode），带 agent 状态条、聊天内行内渲染与 App Store",
       "stars": 4,
-      "install": null,
+      "install": "dsh plugin --profile web add @2nd1st/dsh-plugin-open-app",
       "category": "ui-themes"
     },
     {
@@ -1038,9 +1048,9 @@ window.__DSH_DATA__ = {
       "url": "https://github.com/Han-1413141/dsh-ui-hub",
       "owner": "Han-1413141",
       "repo": "dsh-ui-hub",
-      "description": "UI 管家：官方/插件 UI 分区折叠、逐条开关，拖拽移动/改大小，碰撞避让与一键自动排布 · `dsh plugin --profile web add github:Han-1413141/dsh-ui-hub`",
+      "description": "UI 管家：官方/插件 UI 分区折叠、逐条开关，拖拽移动/改大小，碰撞避让与一键自动排布",
       "stars": 3,
-      "install": null,
+      "install": "dsh plugin --profile web add github:Han-1413141/dsh-ui-hub",
       "category": "ui-themes"
     },
     {
@@ -1048,9 +1058,29 @@ window.__DSH_DATA__ = {
       "url": "https://github.com/sjh9714/dsh-what-changed",
       "owner": "sjh9714",
       "repo": "dsh-what-changed",
-      "description": "会话顶栏一屏看完整会话改动，列出 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动 · `dsh plugin --profile web add dsh-what-changed`",
+      "description": "会话顶栏一屏看完整会话改动，列出 Agent 写过的每个文件与逐处改动，被权限拒绝的写入单独计数不算改动",
       "stars": 2,
-      "install": null,
+      "install": "dsh plugin --profile web add dsh-what-changed",
+      "category": "ui-themes"
+    },
+    {
+      "name": "dsh-easyrewrite",
+      "url": "https://github.com/Renzic-Stone/DSH-EasyRewrite",
+      "owner": "Renzic-Stone",
+      "repo": "DSH-EasyRewrite",
+      "description": "DSH Web 用户消息气泡内联编辑与撤回：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n",
+      "stars": 59,
+      "install": "dsh plugin add dsh-easyrewrite",
+      "category": "ui-themes"
+    },
+    {
+      "name": "dsh-meow-smooth",
+      "url": "https://github.com/Phant0Meow/dsh-meow-smooth",
+      "owner": "Phant0Meow",
+      "repo": "dsh-meow-smooth",
+      "description": "手机优先的 DSH 前端体验优化：输入框失焦自动折叠、手机回车换行、侧边栏/顶部栏压缩、设置页适配、禁缩放回弹，外加长任务完成/权限申请/提问通知（Web Push/Bark webhook）",
+      "stars": 12,
+      "install": "dsh plugin add meow-smooth",
       "category": "ui-themes"
     },
     {
@@ -1274,6 +1304,16 @@ window.__DSH_DATA__ = {
       "category": "desktop-tui-mobile"
     },
     {
+      "name": "dsh-tray-launcher",
+      "url": "https://github.com/fancr-code/dsh-tray-launcher",
+      "owner": "fancr-code",
+      "repo": "dsh-tray-launcher",
+      "description": "Windows 桌面托盘启动器：无窗口运行 dsh web，托盘右键切换图标（梁祖/鲸鱼娘/DeepSeek/自定义），退出即全退  · `npm i -g dsh-tray-launcher && dsh-tray-install`",
+      "stars": 2,
+      "install": null,
+      "category": "desktop-tui-mobile"
+    },
+    {
       "name": "dsh-work",
       "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
       "owner": "vibeinging",
@@ -1404,13 +1444,13 @@ window.__DSH_DATA__ = {
       "category": "agent-orchestration"
     },
     {
-      "name": "dph-fleet",
-      "url": "https://github.com/polaris-smart/dph-fleet",
+      "name": "dsh-devices",
+      "url": "https://github.com/polaris-smart/dsh-devices",
       "owner": "polaris-smart",
-      "repo": "dph-fleet",
-      "description": "去中心化多设备舰队：mDNS 同网发现 + 密钥配对 + SSH 跨网直连，任意设备可派单/接单（零 npm 依赖）",
+      "repo": "dsh-devices",
+      "description": "去中心化多设备舰队：mDNS 同网发现 + 密钥配对 + SSH 跨网直连 + SFTP 文件传输，dsh 会话内自动注册 6 个 fleet 工具（零 npm 依赖）",
       "stars": 5,
-      "install": "dsh plugin add dph-fleet-0.2.4.tgz",
+      "install": "dsh plugin add dsh-devices",
       "category": "agent-orchestration"
     },
     {
@@ -1824,6 +1864,16 @@ window.__DSH_DATA__ = {
       "category": "multimodal"
     },
     {
+      "name": "dsh-labnana",
+      "url": "https://github.com/exoticknight/dsh-labnana",
+      "owner": "exoticknight",
+      "repo": "dsh-labnana",
+      "description": "Labnana 图片生成插件：文生图/图生图/精准编辑，支持 NanoBanana Pro、GPT-Image-2、Wan2.7、Seedream，对话内图片卡片 + 积分预估",
+      "stars": null,
+      "install": "dsh plugin add github:exoticknight/dsh-labnana",
+      "category": "multimodal"
+    },
+    {
       "name": "dsh-deep-research",
       "url": "https://github.com/omdsh-dev/dsh-deep-research",
       "owner": "omdsh-dev",
@@ -2164,6 +2214,16 @@ window.__DSH_DATA__ = {
       "category": "notifications-channels"
     },
     {
+      "name": "task-chime",
+      "url": "https://github.com/Abel-86/task-chime",
+      "owner": "Abel-86",
+      "repo": "task-chime",
+      "description": "审批/权限请求与任务完成提示音，GUI 设置中可自定义声音、音量与冷却",
+      "stars": null,
+      "install": "dsh plugin add task-chime",
+      "category": "notifications-channels"
+    },
+    {
       "name": "dsh-ssh",
       "url": "https://github.com/UynajGI/dsh-ssh",
       "owner": "UynajGI",
@@ -2404,16 +2464,6 @@ window.__DSH_DATA__ = {
       "category": "infrastructure-dev"
     },
     {
-      "name": "DSH-plugin-switch",
-      "url": "https://github.com/Nexus-Aethra/DSH-plugin-switch",
-      "owner": "Nexus-Aethra",
-      "repo": "DSH-plugin-switch",
-      "description": "插件市场：浏览/搜索/安装 GitHub 项目，自动识别 plugin/skill",
-      "stars": 2,
-      "install": "dsh plugin add dsh-plugin-switch",
-      "category": "infrastructure-dev"
-    },
-    {
       "name": "dsh-plugin-installer",
       "url": "https://github.com/Toukaiteio/dsh-plugin-installer",
       "owner": "Toukaiteio",
@@ -2441,6 +2491,16 @@ window.__DSH_DATA__ = {
       "description": "面向 DSH 的插件生态：700+ 插件，扩展接缝注册不改 agent-loop",
       "stars": 53,
       "install": null,
+      "category": "infrastructure-dev"
+    },
+    {
+      "name": "dsh-plugin-hub",
+      "url": "https://github.com/Noob-stupid/dsh-plugin-hub",
+      "owner": "Noob-stupid",
+      "repo": "dsh-plugin-hub",
+      "description": "插件管理面板 + 多源市场：一键启停（HMR 生效）、GitHub/Gitee/自定义源并行搜索、静态索引市场（500+ 插件 / 300 技能）、技能安装/停用/删除、套装一键装配、框架一键升级",
+      "stars": 69,
+      "install": "dsh plugin add dsh-plugin-hub",
       "category": "infrastructure-dev"
     },
     {
@@ -3011,6 +3071,16 @@ window.__DSH_DATA__ = {
       "description": "DeepSeek 账户余额与会话成本显示",
       "stars": 19,
       "install": "dsh plugin add github:Ghost011118/dsh-balance-meter",
+      "category": "fun-other"
+    },
+    {
+      "name": "dsh-novel-writer",
+      "url": "https://github.com/siweina/dsh-novel-writer",
+      "owner": "siweina",
+      "repo": "dsh-novel-writer",
+      "description": "中文小说写作助手：句式/情感/意象分析、文笔六维基线带（μ±σ 对照）、12 轴氛围光谱、风格画像报告、本地语义检索（0 token）+ 伏笔设定管理，15 个工具",
+      "stars": 7,
+      "install": "dsh plugin add dsh-novel-writer",
       "category": "fun-other"
     },
     {

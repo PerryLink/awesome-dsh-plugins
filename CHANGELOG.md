@@ -10,6 +10,7 @@
 - 新增 [scripts/probe-stars.mjs](scripts/probe-stars.mjs)：直接探测 GitHub 实时 star，不再依赖上游快照
 - README 折叠区与 INDEX 改为表格呈现；Hot Plugins 排行榜按 star 自动生成
 - 收录 dsh-web-ui、dsh-passwords 等 12 个新插件
+- 收录 9 个新插件（dsh-nuke-plugin / dsh-novel-writer / task-chime / dsh-easyrewrite / dsh-meow-smooth / dsh-labnana / dsh-plugin-hub / dsh-plugin-usage-meter / dsh-tray-launcher）；dph-fleet 条目随仓库更名更新为 dsh-devices
 
 ### Changed
 - star 数据改为自己探测 GitHub 实时值（脱离对上游 awesome-dsh-plugin 的依赖）
@@ -21,6 +22,7 @@
 - 修复 sync-data 因上游数据源迁移（`docs/plugins.json` / `stars.json` 移除）导致的同步失效
 - 修复 CRLF 行尾导致生成脚本漏解析条目（新增 `.gitattributes` 强制 LF）
 - 修复 INDEX.md「返回分类页」链接缺 `plugins/` 前缀导致的死链（`scripts/gen-index.mjs`）
+- 修复 2 个死链：`Nexus-Aethra/DSH-plugin-switch` 与 `stushansusu/dsh-miku-skin`（仓库 404），从目录与英文描述中删除
 
 ### Removed
 - 移除 `hyqhyq3/dsh-mcp-manager`（安全原因）：从 `plugins/mcp.md` 及英文描述、README/INDEX/web 数据中删除，并清理 `_research/` 上游快照中的残留引用

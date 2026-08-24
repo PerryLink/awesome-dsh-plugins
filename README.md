@@ -2,9 +2,9 @@
 
 # 🐋 Awesome DeepSeek Harness Plugins
 
-**A curated directory of 299+ [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) plugins across 14 categories — every entry with ⭐ stars and a `dsh plugin add` command. Bilingual (EN + 中文), machine-readable data, auto-sync CI.**
+**A curated directory of 306+ [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) plugins across 14 categories — every entry with ⭐ stars and a `dsh plugin add` command. Bilingual (EN + 中文), machine-readable data, auto-sync CI.**
 
-![plugins](https://img.shields.io/badge/plugins-299-blue) ![categories](https://img.shields.io/badge/categories-14-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![plugins](https://img.shields.io/badge/plugins-306-blue) ![categories](https://img.shields.io/badge/categories-14-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 **English** · [中文版](README.zh.md)
 
@@ -66,7 +66,7 @@ Top community plugins by GitHub stars:
 
 | Metric | Value |
 |---|---|
-| Plugins listed | **299** entries (299 unique) |
+| Plugins listed | **306** entries (306 unique) |
 | Categories | **14** top-level |
 | Ecosystem reference | `dsh-plugin` topic ~3300+ repos · compat radar 286+ |
 
@@ -76,19 +76,19 @@ Top community plugins by GitHub stars:
 
 | # | Category | Plugins | Description |
 |---|---|---|---|
-| 1 | [🛠️ Tools](plugins/tools.md) | 30 | deterministic tools, git, test runners, safe delete |
+| 1 | [🛠️ Tools](plugins/tools.md) | 31 | deterministic tools, git, test runners, safe delete |
 | 2 | [🧩 Skills](plugins/skills.md) | 16 | engineering discipline, skill migration, book-to-skill |
 | 3 | [🔌 MCP](plugins/mcp.md) | 8 | MCP server management, webfetch, vision MCP |
-| 4 | [🎨 UI / Skins / Themes](plugins/ui-themes.md) | 43 | skins, themes, generative UI, input enhancements |
-| 5 | [🖥️ Desktop / TUI / Mobile](plugins/desktop-tui-mobile.md) | 22 | desktop shells, terminal TUI, mobile, companions |
+| 4 | [🎨 UI / Skins / Themes](plugins/ui-themes.md) | 45 | skins, themes, generative UI, input enhancements |
+| 5 | [🖥️ Desktop / TUI / Mobile](plugins/desktop-tui-mobile.md) | 23 | desktop shells, terminal TUI, mobile, companions |
 | 6 | [🤖 Agent Orchestration](plugins/agent-orchestration.md) | 10 | agent teams, plan/execute, A2A, cross-session messaging |
 | 7 | [🧠 Context / Memory](plugins/context-memory.md) | 24 | long-term memory, context compression/audit, session control |
-| 8 | [👁️ Multimodal / Vision](plugins/multimodal.md) | 17 | image Q&A, OCR, screenshots, computer use |
+| 8 | [👁️ Multimodal / Vision](plugins/multimodal.md) | 18 | image Q&A, OCR, screenshots, computer use |
 | 9 | [🔁 Workflow / Automation](plugins/workflow-automation.md) | 21 | deep research, cron, condition wakeup, review loops |
-| 10 | [📡 Notifications / Channels](plugins/notifications-channels.md) | 18 | Telegram/WeChat/Feishu bots, SSH, desktop notify |
+| 10 | [📡 Notifications / Channels](plugins/notifications-channels.md) | 19 | Telegram/WeChat/Feishu bots, SSH, desktop notify |
 | 11 | [🌐 Browser / Search](plugins/browser-search.md) | 16 | browser control, scraping, search providers |
 | 12 | [🏗️ Infra / Plugin Mgmt](plugins/infrastructure-dev.md) | 33 | plugin managers, health checks, sandboxes, telemetry |
-| 13 | [🎮 Fun / Other](plugins/fun-other.md) | 31 | games, pets, stickers, learning, design |
+| 13 | [🎮 Fun / Other](plugins/fun-other.md) | 32 | games, pets, stickers, learning, design |
 | 14 | [🏛️ Official & Meta](plugins/official-meta.md) | 10 | core repo, awesome lists, compat radar, community hub |
 
 <!-- catindex:end -->
@@ -100,7 +100,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 <!-- categories:start -->
 
 <details>
-<summary>🛠️ Tools · 30</summary>
+<summary>🛠️ Tools · 31</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
@@ -134,6 +134,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-plugin-sleep](https://github.com/HuanLinOTO/dsh-plugin-sleep) | 10 | Exposes a single `sleep` tool for on-demand pauses (cancelable) | `dsh plugin add @huanlin/dsh-plugin-sleep` |
 | [dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) | 1 | Port conflict handling (reuse/switch/precise kill) | `dsh plugin add dsh-port-guard` |
 | [dsh-scout](https://github.com/omdsh-dev/dsh-scout) | 2 | Read-only environment probing: runtime/versions/resources/ports/services/hardware/workspace | `dsh plugin add @deepseek-ai/dsh-tool-scout` |
+| [dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) |  | Transactional plugin-uninstall engine: every destructive action runs validate/preview/execute/undo + Saga rollback, WAL crash recovery, hash-chain audit log, hardlink dedupe and Bayesian success prediction; recycle bin instead of permanent delete. | `dsh plugin add github:beijingwahw/dsh-nuke-plugin` |
 
 </details>
 
@@ -178,14 +179,13 @@ Expand any category to browse all plugins inline — no need to leave this page.
 </details>
 
 <details>
-<summary>🎨 UI / Skins / Themes · 43</summary>
+<summary>🎨 UI / Skins / Themes · 45</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
 | [dsh-skins](https://github.com/Moeblack/dsh-skins) | 3 | Web UI skin collection (including the harbor sunset skin) | `dsh plugin add @dsh-external/dsh-web-skins` |
 | [dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | 1667 | Whale-girl skin series for the DSH Web UI (maid-atelier). |  |
 | [dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) | 23 | QQ2006 retro skin |  |
-| [dsh-miku-skin](https://github.com/stushansusu/dsh-miku-skin) | 2 | Hatsune Miku theme (blue-purple gradient/frosted glass/light-dark dual theme) | `dsh plugin add @deepseek-ai/dsh-client-ui-skin-miku` |
 | [dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) | 14 | An Excel-style skin |  |
 | [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun) | 3 | Tonghuashun market-terminal style skin + code-volume K-line panel |  |
 | [dsh-plugin-colorscheme](https://github.com/Civitasv/dsh-plugin-colorscheme) | 2 | Color scheme plugin |  |
@@ -214,13 +214,16 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-local-filetree](https://github.com/Mongfayi/dsh-local-filetree) | 1 | Show the current session workspace file tree in the right detail column (lazy-loaded, read-only) | `dsh plugin add dsh-local-filetree` |
 | [dsh-sticky-disclosure](https://github.com/Han-1413141/dsh-sticky-disclosure) | 3 | One-click collapse of every expanded section (Think rows, tool cards) with a live-count pill and a customizable hotkey. | `dsh plugin add dsh-sticky-disclosure` |
 | [dsh-token-usage](https://github.com/hashdiana/dsh-token-usage) | 3 | Prettier token usage bar: context, input/output, cache breakdown, time-to-first-token | `dsh plugin add dsh-token-usage` |
-| [TokenLedger](https://github.com/zh667/TokenLedger) | 142 | Track local DSH token usage by relay site, project and model, and show account balance and subscription quota cycles. |  |
-| [dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) | 12 | RMB/USD token billing: official peak/off-peak auto pricing, per-provider/source cost grouping, budget and balance views, CSV/JSON export. |  |
+| [TokenLedger](https://github.com/zh667/TokenLedger) | 142 | Track local DSH token usage by relay site, project and model, and show account balance and subscription quota cycles. | `dsh plugin --profile web add github:zh667/TokenLedger` |
+| [dsh-web-billing](https://github.com/bpc-oss/dsh-web-billing) | 12 | RMB/USD token billing: official peak/off-peak auto pricing, per-provider/source cost grouping, budget and balance views, CSV/JSON export. | `dsh plugin --profile web add github:bpc-oss/dsh-web-billing` |
+| [dsh-plugin-usage-meter](https://github.com/fancr-code/dsh-plugin-usage-meter) | 3 | API usage/cost/balance dashboard: pill usage bar with peak/off-peak labels, per-model stacked bar chart by day / last 7 days, model distribution, budget alerts and a cross-session ledger. | `dsh plugin add dsh-plugin-usage-meter` |
 | [dsh-model-config-sync](https://github.com/LiangYin233/dsh-provider-model-configurator) | 14 | Advanced model configurator applying pi-ai presets to custom providers in one click | `dsh plugin add dsh-model-config-sync` |
 | [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 5894 | DSH Web UI plugin and skin collection: task board, Git graph, right panel, mobile remote, skin center | `dsh plugin add dsh-web-ui` |
-| [dsh-plugin-open-app](https://github.com/2nd1st/dsh-plugin-open-app) | 4 | Brings open-mcp-apps into DSH: one sidebar container per MCP app (own workspace, session and App mode), an agent status strip, inline chat rendering and an App Store. |  |
-| [dsh-ui-hub](https://github.com/Han-1413141/dsh-ui-hub) | 3 | UI butler: fold and toggle official/plugin UI by section, drag to move and resize, with collision avoidance and one-click auto layout. |  |
-| [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) | 2 | Session top bar summarizing the whole session's changes: every file the agent wrote and each edit, with permission-denied writes counted separately. |  |
+| [dsh-plugin-open-app](https://github.com/2nd1st/dsh-plugin-open-app) | 4 | Brings open-mcp-apps into DSH: one sidebar container per MCP app (own workspace, session and App mode), an agent status strip, inline chat rendering and an App Store. | `dsh plugin --profile web add @2nd1st/dsh-plugin-open-app` |
+| [dsh-ui-hub](https://github.com/Han-1413141/dsh-ui-hub) | 3 | UI butler: fold and toggle official/plugin UI by section, drag to move and resize, with collision avoidance and one-click auto layout. | `dsh plugin --profile web add github:Han-1413141/dsh-ui-hub` |
+| [dsh-what-changed](https://github.com/sjh9714/dsh-what-changed) | 2 | Session top bar summarizing the whole session's changes: every file the agent wrote and each edit, with permission-denied writes counted separately. | `dsh plugin --profile web add dsh-what-changed` |
+| [dsh-easyrewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) | 59 | Inline edit & recall for user message bubbles in DSH Web: lazy commit, seamless replacement, version pager, auto draft backup, trilingual i18n. | `dsh plugin add dsh-easyrewrite` |
+| [dsh-meow-smooth](https://github.com/Phant0Meow/dsh-meow-smooth) | 12 | Mobile-first UX polish for the DSH Web UI (composer auto-fold, phone enter-as-newline, compact sidebar/header, zoom lock) plus task/permission/question notifications (Web Push / Bark webhook) with zero dsh changes. | `dsh plugin add meow-smooth` |
 | [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) | 211 | In-conversation generative UI: the model renders interactive HTML cards into the chat stream, with streaming preview and sandboxed rendering. | `dsh plugin add @dsh-external/dsh-visualize` |
 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 323 | Interactive UI components rendered inline in replies: layout, charts, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. | `dsh plugin add @omdsh-dev/dsh-genui` |
 | [web-components](https://github.com/omdsh-dev/web-components) | 2 | Web Components support. | `dsh plugin add @deepseek-ai/dsh-client-web-component` |
@@ -229,7 +232,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 </details>
 
 <details>
-<summary>🖥️ Desktop / TUI / Mobile · 22</summary>
+<summary>🖥️ Desktop / TUI / Mobile · 23</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
@@ -251,6 +254,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 19606 | Modern DeepSeek Harness desktop experience |  |
 | [Deepseek-Harness-Desktop](https://github.com/ChisaAlter/Deepseek-Harness-Desktop) | 138 | Electron desktop shell with themes, wallpapers, and tray; chat stays on official dsh web | `dsh plugin add deepseek-harness-desktop` |
 | [dsh-launcher](https://github.com/Ruler4396/dsh-launcher) | 177 | Lightweight Windows launcher: auto-start on boot + standalone small window |  |
+| [dsh-tray-launcher](https://github.com/fancr-code/dsh-tray-launcher) | 2 | Windows tray launcher: runs dsh web without a window, right-click tray to switch icons (Liangzu / whale-girl / DeepSeek / custom); quitting quits all. | `npm i -g dsh-tray-launcher && dsh-tray-install` |
 | [dsh-work](https://github.com/vibeinging/deepseek-harness-desktop-app) | 631 | Local AI workspace: unified Session, files, data analysis, MCP, and Office |  |
 | [dsh-companion](https://github.com/william-jin-cmu/dsh-companion) | 5 | Resident desktop assistant: global summon, scheduled automation, quick replies, plugin marketplace |  |
 | [dsh-mobile](https://github.com/lehhair/dsh-mobile) | 22 | Mobile client (⚠️ dsh-external, public availability unverified) |  |
@@ -272,7 +276,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-session-hub](https://github.com/Asaiuta/dsh-session-hub) | 5 | Aggregate and natively control DSH sessions across servers (hub gateway + official UI bridge) | `dsh plugin add dsh-session-hub` |
 | [dsh-plugin-yet-another-subagent](https://github.com/HuanLinOTO/dsh-plugin-yet-another-subagent) | 15 | Configurable subagent profiles plus live tool-call/token display and sub-session jump | `dsh plugin add @huanlin/dsh-plugin-yet-another-subagent` |
 | [dsh-a2a](https://github.com/dpskh/dsh-a2a) | 7 | Agent2Agent mesh interconnection ⚠️ dsh-external, public availability unverified |  |
-| [dph-fleet](https://github.com/polaris-smart/dph-fleet) | 5 | Decentralized multi-device fleet: mDNS discovery + key pairing + SSH cross-network control; any device can dispatch or accept tasks (zero npm dependencies). | `dsh plugin add dph-fleet-0.2.4.tgz` |
+| [dsh-devices](https://github.com/polaris-smart/dsh-devices) | 5 | Decentralized multi-device fleet: mDNS discovery + key pairing + SSH cross-network control + SFTP file transfer; auto-registers 6 fleet tools in dsh sessions (zero npm dependencies). | `dsh plugin add dsh-devices` |
 
 </details>
 
@@ -309,7 +313,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 </details>
 
 <details>
-<summary>👁️ Multimodal / Vision · 17</summary>
+<summary>👁️ Multimodal / Vision · 18</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
@@ -330,6 +334,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) | 14 | HarmonyOS device bridge: hdc screenshot/install/log/crash/UI automation loop with read_image, official-first versioned API knowledge (SDK .d.ts + offline bundled docs), and a DevEco CLI build/sign/lint lane. | `dsh plugin add dsh-hdc-bridge` |
 | [dsh-plugin-aigc-canvas](https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas) | 16 | Provider-agnostic AIGC HTTP bridge plus freeform canvas and ffmpeg post-processing | `dsh plugin add @huanlin/dsh-plugin-aigc-canvas` |
 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 961 | Free vision for text-only agents: built-in keyless vision chain plus pixel tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots); paste an image to use it. | `dsh plugin add dsh-vision-router` |
+| [dsh-labnana](https://github.com/exoticknight/dsh-labnana) |  | Labnana image generation plugin: text-to-image / image-to-image / precise editing for NanoBanana Pro, GPT-Image-2, Wan2.7 and Seedream, with in-chat image cards and credit estimate. | `dsh plugin add github:exoticknight/dsh-labnana` |
 
 </details>
 
@@ -363,7 +368,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 </details>
 
 <details>
-<summary>📡 Notifications / Channels · 18</summary>
+<summary>📡 Notifications / Channels · 19</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
@@ -380,6 +385,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-web-ui-notify](https://github.com/bill9109/dsh-web-ui-notify) | 22 | Desktop notification reminders. | `dsh plugin add @bill9109/dsh-web-ui-notify` |
 | [dsh-session-notification](https://github.com/dingyi222666/dsh-session-notification) | 15 | Notifications for four session states, with browser alerts and prompts. | `dsh plugin add @dingyi222666/dsh-session-notification` |
 | [dsh-bell-notify](https://github.com/Laplace-bit/dsh-bell-notify) | 2 | Rings bells and shows a breathing status dot for Agent lifecycle events; Web Audio synthesized (zero audio files), custom sounds uploadable per event. | `dsh plugin add github:Laplace-bit/dsh-bell-notify` |
+| [task-chime](https://github.com/Abel-86/task-chime) |  | DSH task chime: plays local sounds for approval/permission requests and task completion, with configurable volume and cooldown from the web GUI. | `dsh plugin add task-chime` |
 | [dsh-ssh](https://github.com/UynajGI/dsh-ssh) | 7 | SSH remote execution (ProxyJump chains, SFTP filesystem, PTY) |  |
 | [dsh-webhook-bridge](https://github.com/ben7am1n/dsh-webhook-bridge) | 1 | Generic webhook receiver: POST /hook/:channel wakes per-channel agents | `dsh plugin add dsh-webhook-bridge` |
 | [dsh-open-in-vscode](https://github.com/omdsh-dev/dsh-open-in-vscode) | 54 | Open DSH workspace directories in VS Code directly from the web GUI. | `dsh plugin add dsh-open-in-vscode` |
@@ -420,10 +426,10 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [plugin-registry](https://github.com/vlln/plugin-registry) | 57 | Ecosystem infrastructure: a thin browser console for managing official repository plugins (zero patches) plus a make-dsh-plugin skill for guided plugin development. |  |
 | [dsh-plugin-manager-registry](https://github.com/Jesse-njx/dsh-plugin-manager-registry) | 1 | Offline-tolerant registry discovering and deduplicating DSH plugins from awesome lists, GitHub topics, and npm |  |
 | [dsh-hub](https://github.com/omdsh-dev/dsh-hub) | 4 | OMDSH community extension hub (built on official contracts) | `dsh plugin add @omdsh/dsh-hub` |
-| [DSH-plugin-switch](https://github.com/Nexus-Aethra/DSH-plugin-switch) | 2 | Plugin marketplace: browse, search, and install GitHub projects, auto-detecting plugins/skills. | `dsh plugin add dsh-plugin-switch` |
 | [dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) | 6 | Marketplace plugin connecting DSH to the GitHub plugin ecosystem. | `dsh plugin add dsh-plugin-installer` |
 | [dsh-super-injector](https://github.com/yjh051108/dsh-super-injector) | 147 | Super module injector: inject local plugin packages at runtime (junction + loader.create, hot reload). | `dsh plugin add @dsh-external/dsh-super-injector` |
 | [oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) | 53 | Plugin ecosystem for DSH: 700+ plugins with extension seams registered without touching the agent loop. |  |
+| [dsh-plugin-hub](https://github.com/Noob-stupid/dsh-plugin-hub) | 69 | A plugin management panel: one-click enable/disable for installed plugins plus a GitHub dsh-plugin marketplace with details and one-click installs. | `dsh plugin add dsh-plugin-hub` |
 | [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) | 27 | Plugin health checks: manifest protocol / patch format / build traps, zero-dependency and read-only. | `dsh plugin add @deepseek-ai/dsh-plugin-check` |
 | [dsh-plugin-doctor](https://github.com/lin-cheng-lab/dsh-plugin-doctor) | 1 | Plugin health check: verify peer version compatibility before install. | `dsh plugin add dsh-plugin-doctor` |
 | [dsh-doctor](https://github.com/asdf17128/dsh-doctor) | 1 | Profile health check: find configs broken by patches, dead patches, and tool name conflicts. |  |
@@ -454,7 +460,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 </details>
 
 <details>
-<summary>🎮 Fun / Other · 31</summary>
+<summary>🎮 Fun / Other · 32</summary>
 
 | Plugin | ⭐ | Description | Install |
 |---|---|---|---|
@@ -489,6 +495,7 @@ Expand any category to browse all plugins inline — no need to leave this page.
 | [dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | 180 | Per-session and daily API cost, budget with usage %, official balance, history dashboard, and one-click official price sync with peak/off-peak pricing. | `dsh plugin add github:Han-1413141/dsh-cost-meter` |
 | [dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) | 19 | Finds potential UX issues in your project: automatically reviews React/TypeScript code, pinpoints each problem, and gives concrete suggestions. | `dsh plugin add github:DietCokewithSugar/dsh-user-experience` |
 | [dsh-balance-meter](https://github.com/Ghost011118/dsh-balance-meter) | 19 | DeepSeek account balance and session cost in the composer dock, with auto-fetched official pricing and peak/off-peak support. | `dsh plugin add github:Ghost011118/dsh-balance-meter` |
+| [dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) | 7 | Chinese novel writing assistant: sentence-pattern/emotion/imagery analysis, six-dimension prose baseline band, 12-axis atmosphere spectrum, style profile, local semantic retrieval (0 token) and foreshadowing management; 15 tools. | `dsh plugin add dsh-novel-writer` |
 
 </details>
 

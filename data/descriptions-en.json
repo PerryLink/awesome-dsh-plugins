@@ -395,7 +395,6 @@
  "wongjinggitt/mcp-bridge": "MCP browser bridge enabling web AI to call MCP tools",
  "moeblack/dsh-skins": "Web UI skin collection (including the harbor sunset skin)",
  "laplaceyoung/dsh-qq2006": "QQ2006 retro skin",
- "stushansusu/dsh-miku-skin": "Hatsune Miku theme (blue-purple gradient/frosted glass/light-dark dual theme)",
  "small-tailqwq/dsh-deepcel": "An Excel-style skin",
  "adamplatin123/dsh-tonghuashun": "Tonghuashun market-terminal style skin + code-volume K-line panel",
  "civitasv/dsh-plugin-colorscheme": "Color scheme plugin",
@@ -482,7 +481,6 @@
  "realalexandreai/dsh-all-search": "AnySearch web search provider (ctx.web)",
  "jesse-njx/dsh-plugin-manager-registry": "Offline-tolerant registry discovering and deduplicating DSH plugins from awesome lists, GitHub topics, and npm",
  "omdsh-dev/dsh-hub": "OMDSH community extension hub (built on official contracts)",
- "nexus-aethra/dsh-plugin-switch": "Plugin marketplace: browse, search, and install GitHub projects, auto-detecting plugins/skills.",
  "toukaiteio/dsh-plugin-installer": "Marketplace plugin connecting DSH to the GitHub plugin ecosystem.",
  "yjh051108/dsh-super-injector": "Super module injector: inject local plugin packages at runtime (junction + loader.create, hot reload).",
  "laplaceyoung/oh-my-dsh": "Plugin ecosystem for DSH: 700+ plugins with extension seams registered without touching the agent loop.",
@@ -529,5 +527,13 @@
  "bpc-oss/dsh-web-billing": "RMB/USD token billing: official peak/off-peak auto pricing, per-provider/source cost grouping, budget and balance views, CSV/JSON export.",
  "phant0meow/dsh-meow-memory": "Cross-session project memory: layered SQLite storage with keyword/semantic retrieval, per-message hit injection and windowed consolidation.",
  "xmanrui/dsh-im": "One settings entry to connect Feishu/WeChat/DingTalk/WeCom/QQ/Slack/Telegram/Discord/WhatsApp bots via QR scan, App Manifest or credentials.",
- "polaris-smart/dph-fleet": "Decentralized multi-device fleet: mDNS discovery + key pairing + SSH cross-network control; any device can dispatch or accept tasks (zero npm dependencies)."
+ "polaris-smart/dsh-devices": "Decentralized multi-device fleet: mDNS discovery + key pairing + SSH cross-network control + SFTP file transfer; auto-registers 6 fleet tools in dsh sessions (zero npm dependencies).",
+ "beijingwahw/dsh-nuke-plugin": "Transactional plugin-uninstall engine: every destructive action runs validate/preview/execute/undo + Saga rollback, WAL crash recovery, hash-chain audit log, hardlink dedupe and Bayesian success prediction; recycle bin instead of permanent delete.",
+ "siweina/dsh-novel-writer": "Chinese novel writing assistant: sentence-pattern/emotion/imagery analysis, six-dimension prose baseline band, 12-axis atmosphere spectrum, style profile, local semantic retrieval (0 token) and foreshadowing management; 15 tools.",
+ "abel-86/task-chime": "DSH task chime: plays local sounds for approval/permission requests and task completion, with configurable volume and cooldown from the web GUI.",
+ "renzic-stone/dsh-easyrewrite": "Inline edit & recall for user message bubbles in DSH Web: lazy commit, seamless replacement, version pager, auto draft backup, trilingual i18n.",
+ "phant0meow/dsh-meow-smooth": "Mobile-first UX polish for the DSH Web UI (composer auto-fold, phone enter-as-newline, compact sidebar/header, zoom lock) plus task/permission/question notifications (Web Push / Bark webhook) with zero dsh changes.",
+ "exoticknight/dsh-labnana": "Labnana image generation plugin: text-to-image / image-to-image / precise editing for NanoBanana Pro, GPT-Image-2, Wan2.7 and Seedream, with in-chat image cards and credit estimate.",
+ "fancr-code/dsh-plugin-usage-meter": "API usage/cost/balance dashboard: pill usage bar with peak/off-peak labels, per-model stacked bar chart by day / last 7 days, model distribution, budget alerts and a cross-session ledger.",
+ "fancr-code/dsh-tray-launcher": "Windows tray launcher: runs dsh web without a window, right-click tray to switch icons (Liangzu / whale-girl / DeepSeek / custom); quitting quits all."
 }
