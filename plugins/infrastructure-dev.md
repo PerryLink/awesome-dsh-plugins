@@ -39,12 +39,12 @@
 
 ## 分发 / 运维 / 迁移
 
-- [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) — 社区 Docker/K8s 打包（加固镜像 + Compose + Helm） ⭐36
+- [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) — 社区 Docker/K8s 打包（加固镜像 + Compose + Helm） ⭐37
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱：A/B 双槽快照升级、自动恢复、回滚、诊断自愈 ⭐13
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — Multica 的 DSH runtime 桥接（stdio JSONL 协议） ⭐57 · `dsh plugin add @multica-ai/dsh-runtime`
 - [session-teleport](https://github.com/omdsh-dev/session-teleport) — PostgreSQL 单写者会话交接服务 ⭐2 · `dsh plugin add @mattheliu/session-teleport`
 - [session-persistence-rdb](https://github.com/morlay/session-persistence-rdb) — session 关系型数据库持久化 ⭐4 · `dsh plugin add @morlay/session-persistence-rdb`
-- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2310 · `dsh plugin add github:dsh-market/dsh-market`
+- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2330 · `dsh plugin add github:dsh-market/dsh-market`
 - [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐99 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
 
 <!-- nav:start -->
