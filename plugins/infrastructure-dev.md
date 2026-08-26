@@ -18,7 +18,7 @@
 - [dsh-plugin-doctor](https://github.com/lin-cheng-lab/dsh-plugin-doctor) — 插件体检：安装前检查 peer 版本兼容性 ⭐1 · `dsh plugin add dsh-plugin-doctor`
 - [dsh-doctor](https://github.com/asdf17128/dsh-doctor) — profile 健康检查：找 patch 静默破坏的配置/死 patch/工具名冲突 ⭐1
 - [dsh-capability-inspector](https://github.com/tree201/dsh-capability-inspector) — DSH Doctor + 运行时诊断（工具/模型/技能/工作区/会话/插件/MCP 排障） ⭐2 · `dsh plugin add dsh-capability-inspector`
-- [dsh-security-audit](https://github.com/omdsh-dev/dsh-security-audit) — 本机安全审计：配置/插件来源/会话/网络暴露面，只读脱敏报告 ⭐15 · `dsh plugin add @deepseek-ai/dsh-security-audit`
+- [dsh-security-audit](https://github.com/omdsh-dev/dsh-security-audit) — 本机安全审计：配置/插件来源/会话/网络暴露面，只读脱敏报告 ⭐14 · `dsh plugin add @deepseek-ai/dsh-security-audit`
 - [dsh-session-health](https://github.com/omdsh-dev/dsh-session-health) — 会话文件帧级扫描诊断（torn/损坏/空会话检测） ⭐9 · `dsh plugin add @deepseek-ai/dsh-session-health`
 - [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) — dsh 登录网关（密码门）：远程访问鉴权 + 多用户账号管理，HTTPS/防爆破/审计日志 ⭐29 · `dsh plugin add github:slywalker2006/dsh-passwords`
 
@@ -35,7 +35,7 @@
 - [dsh-plugin-graph](https://github.com/erduotong/dsh-plugin-graph) — 插件关系图谱可视化 ⭐2 · `dsh plugin add dsh-plugin-graph`
 - [dsh-dev-actions](https://github.com/skitse/dsh-dev-actions) — Agent 提议的可复用开发命令，转为侧栏动作 ⭐2 · `dsh plugin add dsh-dev-actions`
 - [dsh-tool-policy](https://github.com/Drifter-yh/dsh-tool-policy) — 声明式默认拒绝的工具策略 ⭐3 · `dsh plugin add dsh-tool-policy`
-- [dsh-openai-codex-auth](https://github.com/yoke233/dsh-openai-codex-auth) — OpenAI Codex OAuth 登录与用量卡 ⭐9 · `dsh plugin add dsh-openai-codex-auth`
+- [dsh-openai-codex-auth](https://github.com/yoke233/dsh-openai-codex-auth) — OpenAI Codex OAuth 登录与用量卡 ⭐10 · `dsh plugin add dsh-openai-codex-auth`
 
 ## 分发 / 运维 / 迁移
 
@@ -44,7 +44,7 @@
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — Multica 的 DSH runtime 桥接（stdio JSONL 协议） ⭐57 · `dsh plugin add @multica-ai/dsh-runtime`
 - [session-teleport](https://github.com/omdsh-dev/session-teleport) — PostgreSQL 单写者会话交接服务 ⭐2 · `dsh plugin add @mattheliu/session-teleport`
 - [session-persistence-rdb](https://github.com/morlay/session-persistence-rdb) — session 关系型数据库持久化 ⭐4 · `dsh plugin add @morlay/session-persistence-rdb`
-- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2492 · `dsh plugin add github:dsh-market/dsh-market`
+- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2500 · `dsh plugin add github:dsh-market/dsh-market`
 - [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐101 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
 
 <!-- nav:start -->
