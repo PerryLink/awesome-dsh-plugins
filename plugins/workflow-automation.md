@@ -10,9 +10,9 @@
 - [dsh-routines](https://github.com/Jesse-njx/dsh-routines) — cron 定时 Agent：按计划跑 prompt 并把摘要送到你所在处 ⭐1 · `dsh plugin add @dsh-routines/bundle`
 - [dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注并回送结构化反馈 ⭐10 · `dsh plugin add @dsh-external/dsh-plannotator`
 - [dsh-inspect](https://github.com/omdsh-dev/dsh-inspect) — 发现问题→修复→复查的对抗式闭环（基于官方 workflow 引擎） ⭐7 · `dsh plugin add @dsh-external/dsh-inspect`
-- [dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) — 副模型每轮被动审查并注入见解 ⭐14 · `dsh plugin add dsh-advisor`
-- [mstar-harness](https://github.com/btspoony/mstar-harness) — Skill 驱动的 Harness/Loop 工程工作流 Agent 插件 ⭐56
-- [dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) — 基于角色的模型重试/备用策略 ⭐17 · `dsh plugin add dsh-llm-fallbacks`
+- [dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) — 副模型每轮被动审查并注入见解 ⭐15 · `dsh plugin add dsh-advisor`
+- [mstar-harness](https://github.com/btspoony/mstar-harness) — Skill 驱动的 Harness/Loop 工程工作流 Agent 插件 ⭐57
+- [dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) — 基于角色的模型重试/备用策略 ⭐19 · `dsh plugin add dsh-llm-fallbacks`
 - [dsh-polyglot](https://github.com/Jesse-njx/dsh-polyglot) — 模型切换器：任意 OpenAI 兼容端点 + 免费/低价 DeepSeek 预设 + 限流自动回退 ⭐4 · `dsh plugin add @dsh-polyglot/bundle`
 - [dsh-track](https://github.com/fakechris/dsh-track) — 嵌入式任务管理引擎：决策点协议、念头捕获墙、Linear 形 issue 存储 ⭐7 · `dsh plugin add @deepseek-ai/dsh-track`
 - [dsh-record-replay](https://github.com/humblebanana/dsh-record-replay) — 录制 macOS 桌面工作流演示并转成 agent 技能（orr_* 工具） ⭐10 · `dsh plugin add dsh-record-replay`
