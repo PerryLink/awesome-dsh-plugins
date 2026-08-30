@@ -8,9 +8,9 @@
 - [dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) — 条件驱动唤醒：file/command/http/process/webhook 持久监视触发 agent ⭐15 · `dsh plugin add @dsh-external/dsh-sentinel`
 - [dsh-automation](https://github.com/titanwings/dsh-automation) — 定时任务：Coding 任务按计划在全新 Agent Session 中运行 ⭐85 · `dsh plugin add @dsh-external/dsh-automation`
 - [dsh-routines](https://github.com/Jesse-njx/dsh-routines) — cron 定时 Agent：按计划跑 prompt 并把摘要送到你所在处 ⭐1 · `dsh plugin add @dsh-routines/bundle`
-- [dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注并回送结构化反馈 ⭐10 · `dsh plugin add @dsh-external/dsh-plannotator`
+- [dsh-plannotator](https://github.com/titanwings/dsh-plannotator) — 计划批注：选中计划原文逐条批注并回送结构化反馈 ⭐11 · `dsh plugin add @dsh-external/dsh-plannotator`
 - [dsh-inspect](https://github.com/omdsh-dev/dsh-inspect) — 发现问题→修复→复查的对抗式闭环（基于官方 workflow 引擎） ⭐7 · `dsh plugin add @dsh-external/dsh-inspect`
-- [dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) — 副模型每轮被动审查并注入见解 ⭐17 · `dsh plugin add dsh-advisor`
+- [dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) — 副模型每轮被动审查并注入见解 ⭐18 · `dsh plugin add dsh-advisor`
 - [mstar-harness](https://github.com/btspoony/mstar-harness) — Skill 驱动的 Harness/Loop 工程工作流 Agent 插件 ⭐57
 - [dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) — 基于角色的模型重试/备用策略 ⭐20 · `dsh plugin add dsh-llm-fallbacks`
 - [dsh-polyglot](https://github.com/Jesse-njx/dsh-polyglot) — 模型切换器：任意 OpenAI 兼容端点 + 免费/低价 DeepSeek 预设 + 限流自动回退 ⭐4 · `dsh plugin add @dsh-polyglot/bundle`
@@ -22,7 +22,7 @@
 - [dsh-tool-approval](https://github.com/ilharp/dsh-tool-approval) — 手动审批模式（Manual/Ask Mode） ⭐1 · `dsh plugin add dsh-tool-approval`
 - [dsh-tiered-approval](https://github.com/Elaina-real/dsh-tiered-approval) — 分层自动审查：静态规则 + LLM 审查 + 人工兜底 ⭐2 · `dsh plugin add dsh-tiered-approval`
 - [dsh-event-auditor](https://github.com/qing3a/dsh-event-auditor) — 事件流审计面板：观察事件类型/分发模式/计数，帮插件作者理解内部 ⭐1 · `dsh plugin add @dsh-external/dsh-event-auditor`
-- [dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue) — 自动续传：网络中断后自动发「继续」恢复请求 ⭐42 · `dsh plugin add github:HsiangNianian/dsh-auto-continue`
+- [dsh-auto-continue](https://github.com/HsiangNianian/dsh-auto-continue) — 自动续传：网络中断后自动发「继续」恢复请求 ⭐44 · `dsh plugin add github:HsiangNianian/dsh-auto-continue`
 
 <!-- nav:start -->
 ---
