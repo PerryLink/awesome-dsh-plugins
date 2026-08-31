@@ -4,7 +4,7 @@
 
 ## 插件管理 / 注册表 / 市场
 
-- [plugin-registry](https://github.com/vlln/plugin-registry) — 插件管理控制台：浏览器面板管理官方 repository 插件 + 开发引导 ⭐57
+- [plugin-registry](https://github.com/vlln/plugin-registry) — 插件管理控制台：浏览器面板管理官方 repository 插件 + 开发引导 ⭐58
 - [dsh-plugin-manager-registry](https://github.com/Jesse-njx/dsh-plugin-manager-registry) — 离线容忍的注册表：从 awesome 列表/GitHub topics/npm 发现并去重 DSH 插件 ⭐1
 - [dsh-hub](https://github.com/omdsh-dev/dsh-hub) — OMDSH 社区扩展 hub（基于官方 contracts） ⭐3 · `dsh plugin add @omdsh/dsh-hub`
 - [dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) — 把 DSH 快速接入 GitHub 插件生态的市场插件 ⭐6 · `dsh plugin add dsh-plugin-installer`
@@ -39,12 +39,12 @@
 
 ## 分发 / 运维 / 迁移
 
-- [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) — 社区 Docker/K8s 打包（加固镜像 + Compose + Helm） ⭐53
+- [deepseek-harness-docker](https://github.com/runzhliu/deepseek-harness-docker) — 社区 Docker/K8s 打包（加固镜像 + Compose + Helm） ⭐54
 - [dsh-harness-ops](https://github.com/fakechris/dsh-harness-ops) — 运维工具箱：A/B 双槽快照升级、自动恢复、回滚、诊断自愈 ⭐13
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — Multica 的 DSH runtime 桥接（stdio JSONL 协议） ⭐58 · `dsh plugin add @multica-ai/dsh-runtime`
 - [session-teleport](https://github.com/omdsh-dev/session-teleport) — PostgreSQL 单写者会话交接服务 ⭐2 · `dsh plugin add @mattheliu/session-teleport`
 - [session-persistence-rdb](https://github.com/morlay/session-persistence-rdb) — session 关系型数据库持久化 ⭐4 · `dsh plugin add @morlay/session-persistence-rdb`
-- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2840 · `dsh plugin add github:dsh-market/dsh-market`
+- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐2894 · `dsh plugin add github:dsh-market/dsh-market`
 - [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐103 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
 
 <!-- nav:start -->
