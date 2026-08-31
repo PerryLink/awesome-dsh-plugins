@@ -12,13 +12,13 @@
 - [dsh-browser](https://github.com/ben7am1n/dsh-browser) — Playwright 驱动的浏览器自动化 ⭐5 · `dsh plugin add dsh-browser`
 - [DSH-Chrome-devtools](https://github.com/yuzi-ska/DSH-Chrome-devtools) — 基于 Chrome DevTools MCP 的真实 Chrome 控制 ⭐3 · `dsh plugin add dsh-chrome-devtools`
 - [dsh-playwright-cli](https://github.com/mitao-su/dsh-playwright-cli) — 包装 Playwright CLI：装浏览器、跑测试、从 agent 循环打开 HTML 报告 ⭐3 · `dsh plugin add dsh-playwright-cli`
-- [deepseek-pp](https://github.com/zhu1090093659/deepseek-pp) — 浏览器扩展 AI Agent 工作区，内置 MCP 与记忆 ⭐1728
+- [deepseek-pp](https://github.com/zhu1090093659/deepseek-pp) — 浏览器扩展 AI Agent 工作区，内置 MCP 与记忆 ⭐1730
 
 ## 搜索 / 抓取
 
 - [dsh-web-search-firecrawl](https://github.com/yangzhe1003/dsh-web-search-firecrawl) — Firecrawl 搜索提供方接入内置 web_search ⭐2 · `dsh plugin add @yangzhe1003/dsh-web-search-firecrawl`
 - [dsh-web-search-tavily](https://github.com/crayonlu/dsh-web-search-tavily) — Tavily 搜索提供方（免 DeepSeek key） ⭐3
-- [dsh-tavily-search](https://github.com/zhouzhencheng07/dsh-tavily-search) — 免 key Tavily 搜索工具 ⭐4 · `dsh plugin add dsh-tavily-search`
+- [dsh-tavily-search](https://github.com/zhouzhencheng07/dsh-tavily-search) — 免 key Tavily 搜索工具 ⭐5 · `dsh plugin add dsh-tavily-search`
 - [dsh-web-search-pro](https://github.com/anweat/dsh-web-search-pro) — 增强持久搜索（多引擎 + SQLite/LRU 缓存 + Playwright 渲染） ⭐57 · `dsh plugin add dsh-web-search-pro`
 - [dsh-all-search](https://github.com/RealAlexandreAI/dsh-all-search) — AnySearch 网页搜索提供方（ctx.web） ⭐1 · `dsh plugin add dsh-all-search`
 - [modsearch](https://github.com/liustack/modsearch) — CLI 搜索工具：把搜索查询转结构化 web 证据 JSON ⭐324 · `dsh plugin add @liustack/modsearch`
