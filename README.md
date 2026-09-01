@@ -89,16 +89,16 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-02 01:51（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-02 04:35（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 68298 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 6658 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 68314 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 6661 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3827 | The first vision plugin for DeepSeek Harness, and the v… |
-| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3213 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
+| 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3214 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2767 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
-| 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1489 | Local-first AI token usage & cost tracker for 31 coding… |
+| 6 | [TokenTracker](https://github.com/xiufengsun/TokenTracker) | 1490 | Local-first AI token usage & cost tracker for 31 coding… |
 | 7 | [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | 1257 | AgentTeams plugin for DeepSeek Harness |
 | 8 | [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) | 1045 | Eyes for text-only DeepSeek Harness agents: built-in fr… |
 | 9 | [PicGo-Core](https://github.com/PicGo/PicGo-Core) | 982 | :zap:The ultimate image uploading engine. Both CLI & AP… |
@@ -112,7 +112,7 @@ flowchart TB
 | 17 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 363 | Open-source alternative to Claude Cowork — a local-firs… |
 | 18 | [Bigfish](https://github.com/turtle2209/Bigfish) | 308 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带… |
 | 19 | [dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 306 | Composable three-tier memory control plane for DeepSeek… |
-| 20 | [whale-girl](https://github.com/vlln/whale-girl) | 302 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
+| 20 | [whale-girl](https://github.com/vlln/whale-girl) | 303 | DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。 |
 
 <!-- AUTO:featured:END -->
 
