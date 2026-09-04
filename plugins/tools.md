@@ -16,7 +16,7 @@
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐4 · `dsh plugin add dsh-tool-git`
 - [dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化 test_run：自动探测 vitest/jest/pytest/node:test 并解析失败摘要 ⭐2 · `dsh plugin add dsh-test-runner`
 - [dsh-security-scan](https://github.com/ben7am1n/dsh-security-scan) — 密钥/危险模式扫描（API key/token/私钥脱敏，零依赖） ⭐1 · `dsh plugin add dsh-security-scan`
-- [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现 + 渐进式 schema 披露 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-search`
+- [dsh-tool-search](https://github.com/vibeinging/dsh-tool-search) — 按 agent 的按需工具发现 + 渐进式 schema 披露 ⭐2 · `dsh plugin add @deepseek-ai/dsh-tool-search`
 - [dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) — 用 Monaco 编辑器创建/管理沙箱化自定义 JS 工具 ⭐23 · `dsh plugin add dsh-custom-tool`
 - [dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding) — 自动识别并解码 Bash 输出编码（UTF-16LE/UTF-8/GBK），修中文乱码 ⭐8
 - [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) — Codex 风格 `@file` 文件引用，输入框里直接搜索并引用工作区文件 ⭐502 · `dsh plugin add dsh-at-file`
