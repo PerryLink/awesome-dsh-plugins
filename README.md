@@ -89,12 +89,12 @@ flowchart TB
 
 <!-- AUTO:featured:START -->
 
-> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-06 05:41（UTC+8）。
+> 按 GitHub star 数排序，每 20 分钟自动刷新。数据截至 2026-09-06 07:34（UTC+8）。
 
 | # | 插件 | ⭐ | 说明 |
 |---|---|---|---|
-| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 69031 | Compress tool outputs, logs, files, and RAG chunks befo… |
-| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 6940 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
+| 1 | [headroom](https://github.com/headroomlabs-ai/headroom) | 69038 | Compress tool outputs, logs, files, and RAG chunks befo… |
+| 2 | [dsh-web](https://github.com/zhu1090093659/dsh-web) | 6943 | DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem… |
 | 3 | [modlens](https://github.com/liustack/modlens) | 3877 | The first vision plugin for DeepSeek Harness, and the v… |
 | 4 | [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 3357 | 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Op… |
 | 5 | [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 2847 | DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 E… |
@@ -106,7 +106,7 @@ flowchart TB
 | 11 | [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) | 642 | Local-first, self-hosted AI agent runtime and MCP bridg… |
 | 12 | [dsh-desktop](https://github.com/vibeinging/dsh-desktop) | 638 | DeepSeek Harness Desktop App: a local AI desktop worksp… |
 | 13 | [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) | 609 | 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups … |
-| 14 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 574 | Chrome sidebar extension that lets DeepSeek Harness ope… |
+| 14 | [dsh-browser](https://github.com/Lum1104/dsh-browser) | 573 | Chrome sidebar extension that lets DeepSeek Harness ope… |
 | 15 | [dsh-at-file](https://github.com/FSMargoo/dsh-at-file) | 502 | Codex-style @file mentions for DeepSeek Harness: search… |
 | 16 | [dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 408 | GenUI for DeepSeek Harness: interactive UI components r… |
 | 17 | [Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) | 367 | Open-source alternative to Claude Cowork — a local-firs… |
