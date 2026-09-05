@@ -11,6 +11,8 @@
 - [dsh-lark-bridge](https://github.com/imetn/dsh-lark-bridge) — 双向飞书控制器 ⭐7 · `dsh plugin add dsh-lark-bridge`
 - [dsh-onlyne](https://github.com/dbydd/dsh-onlyne) — IM 网关：从 dsh 会话收发 QQ/微信/飞书/Telegram 消息 ⭐2
 - [dsh-im](https://github.com/xmanrui/dsh-im) — 一个设置入口统一接入飞书/微信/钉钉/企业微信/QQ/Slack/Telegram/Discord/WhatsApp 机器人，支持扫码、Manifest 或凭据绑定 · `npx -y github:xmanrui/dsh-im install` ⭐1107
+- [dsh-reach](https://github.com/PerryLink/dsh-reach) — 把 DSH 审批/提问卡推送到 IM（先微信）并在聊天中作答，带逐通道安全与开放推送服务 · `dsh plugin add dsh-reach`
+- [dsh-wechat](https://github.com/PerryLink/dsh-wechat) — 微信私聊桥接 DSH：文本、图片、文件、音视频双向传输
 
 ## 通知
 

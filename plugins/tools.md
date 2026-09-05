@@ -33,6 +33,7 @@
 - [dsh-port-guard](https://github.com/PangYiMing/dsh-port-guard) — 端口占用处置（复用/切换/精确 kill） ⭐1 · `dsh plugin add dsh-port-guard`
 - [dsh-scout](https://github.com/omdsh-dev/dsh-scout) — 只读环境探测：运行环境/版本/资源/端口/服务/硬件/工作区 ⭐2 · `dsh plugin add @deepseek-ai/dsh-tool-scout`
 - [dsh-nuke-plugin](https://github.com/beijingwahw/dsh-nuke-plugin) — 事务化强力卸载引擎：每个破坏性动作走 validate/preview/execute/undo 四段式 + Saga 回滚，WAL 崩溃自恢复、hash chain 审计链、硬链接去重、贝叶斯先知推演成功率；回收区代替物理删除（可恢复） ⭐3 · `dsh plugin add github:beijingwahw/dsh-nuke-plugin`
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) — TickTick（滴答清单）任务桥：会话页头部任务面板 + 官方 MCP 端点代理工具 · `dsh plugin add @perrylink/dsh-ticktick`
 
 <!-- nav:start -->
 ---

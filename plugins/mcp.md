@@ -10,6 +10,7 @@
 - [shadow-vision](https://github.com/WardLu/shadow-vision) — 开源 MCP 视觉 server，给纯文本 LLM 图片理解/OCR/UI 检查 ⭐2
 - [mcp-bridge](https://github.com/WongJingGitt/mcp-bridge) — MCP 浏览器桥接，让网页端 AI 调用 MCP 工具 ⭐36
 - [dsh-acp-for-bitfun](https://github.com/bobleer/dsh-acp-for-bitfun) — BitFun 与 DSH 的 ACP 交互对接 ⭐10 · `dsh plugin add dsh-acp-for-bitfun`
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) — DSH 插件认证注册表 MCP 服务器
 
 <!-- nav:start -->
 ---
